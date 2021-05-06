@@ -13,6 +13,7 @@ npm i
 ```
 ## Usage
 watch the video for a walkthrough on how to use this .
+https://youtu.be/oPAdEofYpjQ
 
 ## Tests
 To run tests, run the following command:
